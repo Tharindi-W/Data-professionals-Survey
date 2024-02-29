@@ -7,4 +7,4 @@ Information -
   Happiness considering Work/life balance
   Happiness considering Salary
   Happiness considering learning new things
-Dashboard consists of representation of most important deatils of cleaned data set.
+Dashboard (POWER BI) consists of representation of most important deatils of cleaned data set.
